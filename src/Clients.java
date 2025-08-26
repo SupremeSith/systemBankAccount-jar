@@ -9,6 +9,4 @@ public class Clients {
         System.out.println(firstName + "Account Created!");
         System.out.println("The new balance is $10, congrats!!");
     }
-
-
 }

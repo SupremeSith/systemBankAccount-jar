@@ -18,7 +18,5 @@ public class Main {
 
 
         System.out.println(c002.firstName);
-
-
     }
 }
